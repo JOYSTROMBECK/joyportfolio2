@@ -10,6 +10,8 @@ body {
     background-size: cover;
     background-position: center;
     position: relative;
+    padding: 20px; 
+    background-attachment: fixed;
 }
 
 .content {
@@ -28,10 +30,12 @@ body {
 
 .about-me h1 {
     color:black; 
+    white-space: normal;
 }
 
 .about-me h2 {
     color: #343a40; 
+    white-space: normal;
 }
 
 .about-me p {
